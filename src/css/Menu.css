@@ -1,0 +1,12 @@
+.container-menu{
+    display: grid;
+    left: 6em;
+    position: relative;
+    overflow-x: hidden;
+    width: 100%;
+    grid-template-rows: repeat(4, 0.2fr);
+    grid-template-columns: repeat(3, 0.3fr);
+    /* grid-auto-columns: 3px; */
+    grid-row-gap: 47px;
+    grid-column-gap: 0px;
+}

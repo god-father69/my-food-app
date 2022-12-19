@@ -1,0 +1,58 @@
+.card-container{
+    /* background-color: aqua; */
+    position: relative;
+    display: block;
+    width: 20em;
+    top: 1em;
+    height: 27em;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    left: 2em;
+}
+.cont-up img{
+    height: 15em;
+    width: 20em;
+}
+.cont-down{
+    display: block;
+}
+.cont-down h2{
+    position: relative;
+    font-weight: 700;
+    text-align: center;
+}
+.cont-down h3{
+    position: relative;
+    font-weight: 400;
+    text-align: center;
+    display: inline-block;
+    left: 9.6em;
+    font-size: 1.4em;
+    bottom: 2.9em;
+}
+.cont-down h4{
+    position: relative;
+    font-weight: 200;
+    /* text-align: center; */
+    bottom: 0em;
+    right: 1em;
+    margin: 16px 2px;
+    display: inline-block;
+}
+.cont-down p{
+    display: flex;
+    left: 3em;
+    position: relative;
+}
+.cont-down a{
+    text-decoration: none;
+    color: orange;
+    font-size: 1.5em;
+    left: 2em;
+    position: relative;
+}
+.cont-down a:hover{
+    border-top: 2px solid orange;
+    border-bottom: 2px solid orange;
+    border-bottom-left-radius:10px ;
+    border-top-right-radius: 10px;
+}
