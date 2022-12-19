@@ -1,3 +1,6 @@
+A food app with a homepage and a menu page with multiple options like breakfast,dinner etc.
+I have use axios api to fetch the data of different food-items.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
