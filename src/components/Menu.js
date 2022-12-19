@@ -20,6 +20,7 @@ function Menu() {
       // setimage(res.data.data.avatar)
     } catch (Error) {
       alert(Error);
+      console.log("hii");
     }
   };
   return (
